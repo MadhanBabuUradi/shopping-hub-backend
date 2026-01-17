@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ Shopping-HUB - Full Stack E-commerce Platform
 
 ## 🎯 Project Overview
@@ -112,3 +113,6 @@
 
 "# Shopping_HUB" 
 "# Shopping-HUB" 
+=======
+# shopping-hub-backend
+>>>>>>> 3a5ba25d46c07a35260c8bf3a36c2e3ec5b8cc46
