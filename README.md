@@ -38,15 +38,15 @@ It is designed to work seamlessly with the frontend at:
 - 📊 Prepared for future enhancements (auth, orders, payments)
 
 ## 📥 Clone & Setup
-## 1️⃣ Clone the repository
+- 1️⃣ Clone the repository
 [git clone https://github.com/MadhanBabuUradi/shopping-hub-backend.git](https://github.com/MadhanBabuUradi/shopping-hub-backend.git)
 
 cd shopping-hub-backend
 
-## 2️⃣ Install Dependencies
+- 2️⃣ Install Dependencies
 mvn clean install
 
-## 3️⃣ Configure Database
+- 3️⃣ Configure Database
 CREATE DATABASE shopping_hub;
 mysql -u <username> -p shopping_hub < sql/schema.sql
 
