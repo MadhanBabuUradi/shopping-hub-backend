@@ -47,15 +47,20 @@ cd shopping-hub-backend
 mvn clean install
 
 ## 3️⃣ Configure Database
-CREATE DATABASE shopping_hub;
-mysql -u <username> -p shopping_hub < sql/schema.sql
+### 3️⃣ Configure Database
+ Create DB & import schema:  
+```bash
+mysql -u root -p -e "CREATE DATABASE shopping_hub;"
+mysql -u root -p shopping_hub < sql/schema.sql
+```
 
 Update application.properties with your DB credentials:
+```bash
 spring.datasource.url=jdbc:mysql://localhost:3306/shopping_hub
 spring.datasource.username=root
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
-
+```
 ## 🚀 Running the Application
 mvn spring-boot:run
 
