@@ -3,7 +3,6 @@ A RESTful backend API for the Shopping‑HUB eCommerce platform built with Sprin
 
 ## 🧠 Overview
 This backend service provides core API functionality to support:
-
 - 🔄 User management  
 - 🛍️ Product data delivery  
 - 🛒 Cart and order handling  
