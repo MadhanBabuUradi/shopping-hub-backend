@@ -25,7 +25,6 @@ It is designed to work seamlessly with the frontend at:
 | Version Control | 🧾 Git & GitHub |
 
 ## 🚀 Features
-
 - 🔐 RESTful architecture
 - 🏷️ Clean and modular project structure
 - 🔁 Dependency injection using Spring
