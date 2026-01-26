@@ -45,7 +45,6 @@ cd shopping-hub-backend
 mvn clean install
 
 ## 3️⃣ Configure Database
-### 3️⃣ Configure Database
  Create DB & import schema:  
 ```bash
 mysql -u root -p -e "CREATE DATABASE shopping_hub;"
