@@ -13,6 +13,7 @@ This backend service provides core API functionality to support:
 - 🗃️ Database persistence using SQL  
 
 It is designed to work seamlessly with the frontend at:
+```bash
 👉 https://github.com/MadhanBabuUradi/shopping-hub-frontend
 
 
