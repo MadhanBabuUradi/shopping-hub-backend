@@ -35,7 +35,7 @@ It is designed to work seamlessly with the frontend at:
 ## 📥 Clone & Setup
 ## 1️⃣ Clone the repository
 ```bash
-[git clone https://github.com/MadhanBabuUradi/shopping-hub-backend.git](https://github.com/MadhanBabuUradi/shopping-hub-backend.git)
+https://github.com/MadhanBabuUradi/shopping-hub-backend.git
 cd shopping-hub-backend
 ```
 ##  2️⃣ Install Dependencies
