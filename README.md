@@ -37,10 +37,11 @@ It is designed to work seamlessly with the frontend at:
 ```bash
 [git clone https://github.com/MadhanBabuUradi/shopping-hub-backend.git](https://github.com/MadhanBabuUradi/shopping-hub-backend.git)
 cd shopping-hub-backend
-```bash
+```
 ##  2️⃣ Install Dependencies
+```bash
 mvn clean install
-
+```
 ## 3️⃣ Configure Database
  Create DB & import schema:  
 ```bash
