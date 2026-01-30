@@ -58,6 +58,7 @@ spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 ```
 ## 🚀 Running the Application
+```bash
 mvn spring-boot:run
 
 ## 📄 License
