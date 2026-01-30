@@ -60,6 +60,7 @@ spring.jpa.hibernate.ddl-auto=update
 ## 🚀 Running the Application
 ```bash
 mvn spring-boot:run
+```
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
