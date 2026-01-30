@@ -39,7 +39,7 @@ It is designed to work seamlessly with the frontend at:
 https://github.com/MadhanBabuUradi/shopping-hub-backend.git
 cd shopping-hub-backend
 ```
-##  2️⃣ Install Dependencies
+2️⃣**Install Dependencies**
 ```bash
 mvn clean install
 ```
