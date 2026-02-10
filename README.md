@@ -64,7 +64,7 @@ mvn spring-boot:run
 📄 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 🤝 Contributing
+🤝 **Contributing**
 **Contributions are welcome! Please fork the repository and submit a pull request for improvements or bug fixes.**
 
 ##  Acknowledgements
