@@ -14,7 +14,7 @@ It is designed to work seamlessly with the frontend at:
 👉 https://github.com/MadhanBabuUradi/shopping-hub-frontend
 ```
 
-## 🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 | Layer | Technology |
 |-------|------------|
