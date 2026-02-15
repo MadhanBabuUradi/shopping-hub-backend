@@ -7,9 +7,7 @@ This backend service provides core API functionality to support the following fe
 🛍️ **Product Data Delivery** - Serve product listings, details, and availability to frontend clients.  
 🛒 **Cart & Order Handling** - Manage shopping carts, order placement, and order tracking.  
 📦 **CRUD Operations** - Create, read, update, and delete resources across all modules.  
-### 🗃️ Database Persistence (SQL)  
-Ensure reliable data storage and retrieval using a relational SQL database.
-
+🗃️ **Database Persistence (SQL)** - Ensure reliable data storage and retrieval using a relational SQL database.  
 
 It is designed to work seamlessly with the frontend at:
 ```bash
