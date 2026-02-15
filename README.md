@@ -32,7 +32,7 @@ It is designed to work seamlessly with the frontend at:
 - 🧪 Easy database integration
 - 📊 Prepared for future enhancements (auth, orders, payments)
 
-📥 **Clone & Setup**  
+<h3>📥 Clone & Setup</h3>  
 1️⃣ **Clone the repository**
 ```bash
 https://github.com/MadhanBabuUradi/shopping-hub-backend.git
