@@ -1,13 +1,19 @@
 # ⚙️ Shopping‑HUB Backend
 A RESTful backend API for the Shopping‑HUB eCommerce platform built with Spring Boot, following best practices for clean architecture, modular structure, and easy integration with the frontend.
 
-<h3>🧠Overview</h3>  
-This backend service provides core API functionality to support:
-- 🔄 User management
-- 🛍️ Product data delivery  
-- 🛒 Cart and order handling  
-- 📦 CRUD operations  
-- 🗃️ Database persistence using SQL  
+## 🧠 Overview
+This backend service provides core API functionality to support the following features:
+### 🔄 User Management  
+Handle user registration, authentication, and profile operations.
+### 🛍️ Product Data Delivery  
+Serve product listings, details, and availability to frontend clients.
+### 🛒 Cart & Order Handling  
+Manage shopping carts, order placement, and order tracking.
+### 📦 CRUD Operations  
+Create, read, update, and delete resources across all modules.
+### 🗃️ Database Persistence (SQL)  
+Ensure reliable data storage and retrieval using a relational SQL database.
+
 
 It is designed to work seamlessly with the frontend at:
 ```bash
