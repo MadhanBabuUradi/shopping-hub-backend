@@ -33,7 +33,7 @@ It is designed to work seamlessly with the frontend at:
 - 📊 Prepared for future enhancements (auth, orders, payments)
 
 <h3>📥 Clone & Setup</h3>  
-1️⃣ **Clone the repository**
+1️⃣ **Clone the repository**  
 ```bash
 https://github.com/MadhanBabuUradi/shopping-hub-backend.git
 cd shopping-hub-backend
